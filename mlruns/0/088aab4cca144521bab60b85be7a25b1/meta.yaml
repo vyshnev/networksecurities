@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Project/NetworkSecurity/mlruns/0/088aab4cca144521bab60b85be7a25b1/artifacts
+end_time: 1742293377045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 088aab4cca144521bab60b85be7a25b1
+run_name: adaptable-kite-866
+run_uuid: 088aab4cca144521bab60b85be7a25b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742293367482
+status: 3
+tags: []
+user_id: vyshn

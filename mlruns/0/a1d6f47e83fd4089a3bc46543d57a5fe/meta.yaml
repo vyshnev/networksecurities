@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Project/NetworkSecurity/mlruns/0/a1d6f47e83fd4089a3bc46543d57a5fe/artifacts
+end_time: 1742293381325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1d6f47e83fd4089a3bc46543d57a5fe
+run_name: nimble-mole-509
+run_uuid: a1d6f47e83fd4089a3bc46543d57a5fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742293377097
+status: 3
+tags: []
+user_id: vyshn
